@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-- [] Deverá ser capaz de criar um repositório, passando o title, url e techs no body da request, com as seguintes especificações:
+- [x] Deverá ser capaz de criar um repositório, passando o title, url e techs no body da request, com as seguintes especificações:
 
     ```js
         {
@@ -15,9 +15,9 @@
         }
     ```
 
-- [] Deverá listar todos os repositórios
-- [] Deverá ser possível atualizar um repositório passando o id como parâmetro da request
-- [] Deverá ser possível deletar um repositório passando o id como parâmetro da request
+- [x] Deverá listar todos os repositórios
+- [x] Deverá ser possível atualizar um repositório passando o id como parâmetro da request
+- [x] Deverá ser possível deletar um repositório passando o id como parâmetro da request
 
 ## Regras de negócio
 
